@@ -86,11 +86,3 @@ end
 end
 return bbq
 end
-
-
-
-+      puts "  " + holiday + " " + supplies
-+    end
-+  end
- end	 end
-
